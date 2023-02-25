@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://kiritobit.github.io/csb-uyif6p/static/js/main.27145f86.chunk.js",
+    "main.js.map": "https://kiritobit.github.io/csb-uyif6p/static/js/main.27145f86.chunk.js.map",
+    "runtime-main.js": "https://kiritobit.github.io/csb-uyif6p/static/js/runtime-main.8ad1c5e1.js",
+    "runtime-main.js.map": "https://kiritobit.github.io/csb-uyif6p/static/js/runtime-main.8ad1c5e1.js.map",
+    "static/js/2.180307fc.chunk.js": "https://kiritobit.github.io/csb-uyif6p/static/js/2.180307fc.chunk.js",
+    "static/js/2.180307fc.chunk.js.map": "https://kiritobit.github.io/csb-uyif6p/static/js/2.180307fc.chunk.js.map",
+    "index.html": "https://kiritobit.github.io/csb-uyif6p/index.html",
+    "static/js/2.180307fc.chunk.js.LICENSE.txt": "https://kiritobit.github.io/csb-uyif6p/static/js/2.180307fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ad1c5e1.js",
+    "static/js/2.180307fc.chunk.js",
+    "static/js/main.27145f86.chunk.js"
+  ]
+}
